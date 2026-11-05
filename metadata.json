@@ -1,0 +1,6 @@
+{
+  "name": "토끼 달리기 대회 🐰",
+  "description": "학교 및 친구들을 위한 귀엽고 공정한 파스텔톤 토끼 달리기 경주 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
